@@ -21,6 +21,6 @@ services:
       WORDPRESS_DB_HOST: db:3306
       WORDPRESS_DB_PASSWORD: wordpress
     volumes:
-      - /home/matthew/Code/supermatt.net/wordpress_theme:/var/www/html/wp-content/themes/DJSuperMatt
+      - ./wordpress_theme:/var/www/html/wp-content/themes/DJSuperMatt
 volumes:
   db_data:
