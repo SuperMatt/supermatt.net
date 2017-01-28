@@ -226,3 +226,8 @@ table.playlist td:last-child, table.playlist th:last-child {
     height: 50px;
 }
 
+b, strong {
+    color: #333;
+    font-family: "Overpass";
+}
+
