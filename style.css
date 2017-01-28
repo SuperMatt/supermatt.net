@@ -115,7 +115,7 @@ ul.menu li {
 }
 
 h1.title {
-    background-color: #FFB3B3;
+    background-color: #333;
     margin: 0px;
     padding: 10px;
     padding-bottom: 5px;
@@ -133,7 +133,7 @@ h1.event:before {
 }
 
 h1.title {
-    color: #F0F0F0;
+    color: #FFB3B3;
 }
 
 h1.playlist:before {
